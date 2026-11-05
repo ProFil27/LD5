@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentuPvz</string>
+    <string name="a_title">Raidės A(a) paieškos fragmentas</string>
+    <string name="a_count">Šiame tekste yra %1$d simboliai A(a)</string>
+    <string name="stats_title">Teksto analizės fragmentas</string>
+    <string name="stats_length">Teksto ilgis: %1$d</string>
+    <string name="stats_vowels">Balsių: %1$d</string>
+    <string name="stats_upper">Didžiųjų raidžių: %1$d</string>
+    <string name="stats_lower">Mažųjų raidžių: %1$d</string>
+</resources>
